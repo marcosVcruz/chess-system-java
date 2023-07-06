@@ -32,8 +32,4 @@ public class Position {
                 + ", "
                 + column;
     }
-
-    public void setValues(int row, int column){
-
-    }
 }
